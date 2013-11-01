@@ -1,0 +1,15 @@
+Congressmen frequently miss votes, sometimes important ones. What would cause America’s rulemakers to abandon their seats? One assertion is that for many legislators, fundraising and campaigning often trump casting votes. 
+
+I want to take a look at swing districts around the country (districts in which legislators won by a narrow margin), where candidates often campaign the hardest to hold on to their seats. I will look at these swing districts and see whether there is any correlation between representing a swing district and missing house votes. This might suggest that more competitive elections might also involve less attention to actual legislation. If there isn’t a correlation, it might help dispel the notion that campaigning keeps congressmen from voting and that other reasons might be the factor. 
+
+Campaigns are already heating up for the 2014 election, and this sort of insight into voting behavior would be valuable for those going to the polls. 
+
+There are a number of political scientists -- some here at UC Berkeley -- who could provide some context and insight to the findings. There are probably a million lurking variables which I would need to address. The candidates and their campaign teams could also talk about how difficult it is to campaign and legislate at the same time. 
+
+I could see something like this being published with the Center for Public Integrity or the Washington Post.
+
+Questions for my data:
+
+- How many votes have each of the legislators’ missed since they took their seats? What is the average number? Average percent historically? Are there outliers? What are the explanations for those outliers? Who missed the most votes and who missed the least? How do these questions look when broken down by state?
+- Which one of these legislators are in swing districts (where the last election was decided by less than or equal to five percentage points)? What do the numbers look like for these districts? How do these numbers compare to the overall numbers?
+
